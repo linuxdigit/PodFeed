@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Personal Pod</title>
+    <itunes:author>Me</itunes:author>
+    <description>Self Pod</description>
+    <language>en-us</language>
+    <link>https://github.com/linuxdigit/PodFeed</link>
+
+    <item>
+      <title>Test Recording 1</title>
+      <itunes:author>Me</itunes:author>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://linuxdigit.github.io/PodFeed/coachonly.mp3" 
+                 length="0" 
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">unique-id-001</guid>
+    </item>
+  </channel>
+</rss>
