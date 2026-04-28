@@ -17,7 +17,8 @@
       <guid isPermaLink="false">unique-id-001</guid>
     </item>
     <item>
-      <title>Colpssoams 3:23-25</title>
+      <title>Colossians 3:23-25</title>
+
       <itunes:author>Me</itunes:author>
       <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://linuxdigit.github.io/PodFeed/Colossians3:23-25.mp3"
@@ -25,5 +26,41 @@
                  type="audio/mpeg" />
       <guid isPermaLink="false">unique-id-002</guid>
     </item>
+    <item>
+      <title>BSF Final Lecture</title>
+      <content:encode>
+       <![CDATA[
+## EZEKIEL
+Where in your life have you grown spiritually dry, or complacent - and what would it look like for God to give you a “new heart” that actually changes how you live this week?
+
+## DANIEL
+ Where are you most tempted to compromise your convictions to fit into your environment? And what would it look like to stand firm like Daniel this week even if it costs you something?
+
+## EZRA
+ In your life right now, are you more focused on outward activity (work, responsibilities, even ministry) or inward devotion to God? And what is one concrete step you can take this week to realign your heart with Him?
+
+## ESTHER
+ Where has God placed you right now - work, family, community? Where have you been hesitant to speak or act, and what would it look like to step forward with courage “for such a time as this”?
+
+## HAGGAI
+ Where in your life have you become busy with good things but pushed God’s priorities to the side? What specific step will you take this week to put God back in first place?
+
+## ZECHARIAH
+ Where are you relying on your own strength instead of God’s Spirit right now? And what would it look like this week to trust Him and step forward in obedience, even if the outcome feels uncertain?
+
+## NEHEMIAH
+ What is one area of your life or responsibility - home, work, or personal integrity - where the walls are broken down? And what specific step can you take this week to begin rebuilding it through prayer and action?
+
+# MALACHI
+       Where in your life has your walk with God become routine or half-hearted - and what is one intentional step you can take this week to restore genuine devotion?
+       ]]>
+      <itunes:author>Me</itunes:author>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://linuxdigit.github.io/PodFeed/FinalLecture.mp3"
+                 length="0" 
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">unique-id-003</guid>
+    </item>
   </channel>
 </rss>
+
