@@ -8,13 +8,22 @@
     <link>https://github.com/linuxdigit/PodFeed</link>
 
     <item>
-      <title>Test Recording 1</title>
+      <title>Coach - Buses</title>
       <itunes:author>Me</itunes:author>
       <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://linuxdigit.github.io/PodFeed/coachonly.mp3" 
                  length="0" 
                  type="audio/mpeg" />
       <guid isPermaLink="false">unique-id-001</guid>
+    </item>
+    <item>
+      <title>Colpssoams 3:23-25</title>
+      <itunes:author>Me</itunes:author>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://linuxdigit.github.io/PodFeed/Colossians3:23-25.mp3"
+                 length="0" 
+                 type="audio/mpeg" />
+      <guid isPermaLink="false">unique-id-002</guid>
     </item>
   </channel>
 </rss>
