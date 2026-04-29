@@ -14,17 +14,16 @@
       <enclosure url="https://linuxdigit.github.io/PodFeed/coachonly.mp3" 
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-001</guid>
+      <guid isPermaLink="false">unique-id-001a</guid>
     </item>
     <item>
       <title>Colossians 3:23-25</title>
-
       <itunes:author>Me</itunes:author>
       <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://linuxdigit.github.io/PodFeed/Colossians3:23-25.mp3"
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-002</guid>
+      <guid isPermaLink="false">unique-id-002a</guid>
     </item>
     <item>
       <title>BSF Final Lecture</title>
@@ -51,7 +50,7 @@ Where in your life have you grown spiritually dry, or complacent - and what woul
 ## NEHEMIAH
  What is one area of your life or responsibility - home, work, or personal integrity - where the walls are broken down? And what specific step can you take this week to begin rebuilding it through prayer and action?
 
-# MALACHI
+## MALACHI
        Where in your life has your walk with God become routine or half-hearted - and what is one intentional step you can take this week to restore genuine devotion?
        ]]>
       <itunes:author>Me</itunes:author>
@@ -59,7 +58,7 @@ Where in your life have you grown spiritually dry, or complacent - and what woul
       <enclosure url="https://linuxdigit.github.io/PodFeed/FinalLecture.mp3"
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-003</guid>
+      <guid isPermaLink="false">unique-id-003a</guid>
     </item>
   </channel>
 </rss>
