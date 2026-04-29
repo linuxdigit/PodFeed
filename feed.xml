@@ -14,7 +14,7 @@
       <enclosure url="https://linuxdigit.github.io/PodFeed/coachonly.mp3" 
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-001a</guid>
+      <guid isPermaLink="false">Episode1</guid>
     </item>
     <item>
       <title>Colossians 3:23-25</title>
@@ -23,7 +23,7 @@
       <enclosure url="https://linuxdigit.github.io/PodFeed/Colossians3:23-25.mp3"
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-002a</guid>
+      <guid isPermaLink="false">Episode2</guid>
     </item>
     <item>
       <title>BSF Final Lecture</title>
@@ -53,12 +53,13 @@ Where in your life have you grown spiritually dry, or complacent - and what woul
 ## MALACHI
        Where in your life has your walk with God become routine or half-hearted - and what is one intentional step you can take this week to restore genuine devotion?
        ]]>
+      </content>
       <itunes:author>Me</itunes:author>
       <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://linuxdigit.github.io/PodFeed/FinalLecture.mp3"
                  length="0" 
                  type="audio/mpeg" />
-      <guid isPermaLink="false">unique-id-003a</guid>
+      <guid isPermaLink="false">Episode3</guid>
     </item>
   </channel>
 </rss>
